@@ -56,13 +56,13 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/71bf3436-f317-4a63-8511-0fa1f58bae1a)
+![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/3745627f-1270-459d-a2d6-5c475e1299ba)
 
 ### Display the Eroded Image
-![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/ec1757c6-a906-41a6-8e9d-a9e396c3c8e3)
+![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/702590da-0373-4207-adf6-66ad81df0e4d)
 
 ### Display the Dilated Image
-![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/3fbd71f0-e5f9-408c-a23a-9df71f075488)
+![image](https://github.com/Abburehan/erosion--dilation/assets/138849336/559ee6de-56b4-47f2-b838-e33663a1f2b9)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
